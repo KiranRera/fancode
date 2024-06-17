@@ -15,7 +15,7 @@ Before using this framework, ensure that you have following installed on you mac
 
 1. Clone the repository on local machine
   ```console
-git clone https://github.com/ (** Need To Add)
+git clone https://github.com/KiranRera/fancode.git
 ```
 2. Open the project in your preferred IDE
 
